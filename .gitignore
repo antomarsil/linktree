@@ -1,0 +1,8 @@
+# Arquivos locais e temporários
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# Dependências locais (se houver no futuro)
+node_modules/
